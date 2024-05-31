@@ -1535,6 +1535,8 @@ namespace camera_show {
             LogProgramCatch(e.ExceptionObject.ToString());
         }
 
+        #region Test_Clone ################################################
+        #endregion ########################################################
 
 
         #region ================================ Roi Picture ================================
